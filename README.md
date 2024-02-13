@@ -9,20 +9,29 @@
 
 
 <!-- About Section -->
- # About me
+ ## About me
  
 <p>
- <img align="right" width="350" src="/assets/cat.gif" alt="Coding gif" />
+ <img align="right" width="250" src="/assets/cat.gif" alt="Coding gif" />
   
-- 🔭 I’m currently working on **personal projects**
-
-- 🌱 I’m currently learning **JavaScript**
-
-- 👨‍💻 All of my projects are available at [manuelvico0102.github.io](https://manuelvico0102.github.io/)
-
+  - 👨‍💻 I am pursuing studies in computer engineering at the University of Granada
+  
+  - 🔭 I’m currently working on **personal projects**
+  
+  - 🌱 I’m currently learning **JavaScript**
+  
+  - 💻 All of my projects are available at [manuelvico0102.github.io](https://manuelvico0102.github.io/)
+  
+  <br><br>
 </p>
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manuelvico0102&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
+<details open="">
+  <summary>
+    📔 GitHub Stats:
+  </summary>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=manuelvico0102&show_icons=true&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manuelvico0102&theme=highcontrast" alt="GitHub Streak"/> 
+</details>
+
