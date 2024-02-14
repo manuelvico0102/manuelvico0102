@@ -1,17 +1,12 @@
-<a href="https://komarev.com/ghpvc/?username=manuelvico0102">
-  <img align="right" src="https://komarev.com/ghpvc/?username=manuelvico0102&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Manuel Vico</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full-Stack+Software+Developer;A+passionate+Programmer&center=true&width=500&height=50"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full-Stack+Software+Developer;A+passionate+Programmer&center=true&width=500&height=50">
 </p>
 
 
 <!-- About Section -->
- ## About me
- 
-<p>
+### About me
+<p align="center">
  <img align="right" width="250" src="/assets/cat.gif" alt="Coding gif" />
   
   - 👨‍💻 I am pursuing studies in computer engineering at the University of Granada
@@ -21,17 +16,105 @@
   - 🌱 I’m currently learning **JavaScript**
   
   - 💻 All of my projects are available at [manuelvico0102.github.io](https://manuelvico0102.github.io/)
-  
-  <br><br>
 </p>
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<details open="">
-  <summary>
-    📔 GitHub Stats:
-  </summary>
-  <br>
+
+### Languages and Tools
+
+#### Backend
+<table align="center">
+  <tr height="80">
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cpp" alt="icon" width="32" height="32"/>
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" alt="icon" width="32" height="32" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=java" alt="icon" width="32" height="32" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=php" alt="icon" width="32" height="32" />
+      <br>PHP
+    </td>
+  </tr>
+</table>
+
+#### Frontend
+<table align="center">
+  <tr height="80">
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" alt="icon" width="32" height="32" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" alt="icon" width="32" height="32" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" alt="icon" width="32" height="32"/>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bootstrap" alt="icon" width="32" height="32" />
+      <br>Bootstrap
+    </td>
+  </tr>
+</table>
+
+#### Database
+<table align="center">
+  <tr height="80">
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" alt="icon" width="32" height="32"/>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="32" height="32" />
+      <br>MongoDB
+    </td>
+  </tr>
+</table>
+
+#### Tools
+<table align="center">
+  <tr height="80">
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" alt="icon" width="32" height="32"/>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" alt="icon" width="32" height="32" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" alt="icon" width="32" height="32" />
+      <br>VSCode
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" alt="icon" width="32" height="32" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" alt="icon" width="32" height="32" />
+      <br>Linux
+    </td>
+  </tr>
+</table>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+### GitHub Stats
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manuelvico0102&show_icons=true&theme=dark" alt="GitHub Streak" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manuelvico0102&theme=highcontrast" alt="GitHub Streak"/> 
-</details>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manuelvico0102&theme=highcontrast" alt="GitHub Streak"/>
+</p>
 
+<a href="https://komarev.com/ghpvc/?username=manuelvico0102">
+  <img align="right" src="https://komarev.com/ghpvc/?username=manuelvico0102&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
